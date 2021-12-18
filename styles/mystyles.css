@@ -1,0 +1,31 @@
+/* Sydney Rich Dec 17 */
+h5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h6{
+    font-weight: bold;
+    color: rgb(241, 188, 71);
+}
+
+.fontalign{
+    text-align: left;
+}
+
+.italics{
+    font-style: italic;
+}
+
+.imagecenter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.anchors{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/*body{
+    background-image: url('../images/background.jpg');
+}
